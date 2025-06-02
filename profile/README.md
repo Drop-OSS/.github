@@ -64,7 +64,7 @@ We welcome contributions! Please see our [Contributing Guide](https://github.com
 
 ## 📄 License
 
-Drop is licensed under AGPL-3.0. See the [LICENSE](LICENSE) file for details.
+Drop is licensed under AGPL-3.0. See the [LICENSE](https://github.com/Drop-OSS/drop/blob/develop/LICENSE) file for details.
 
 ---
 
