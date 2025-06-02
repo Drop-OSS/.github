@@ -60,7 +60,7 @@ Drop supports any format of game and handles multiple platforms:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to get started.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/Drop-OSS/drop/blob/develop/CONTRIBUTING.md) for details on how to get started.
 
 ## 📄 License
 
