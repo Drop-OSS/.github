@@ -1,68 +1,29 @@
-# Drop
+# Drop OSS
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)
-[![Discord](https://img.shields.io/discord/ACq4qZp4a9?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/ACq4qZp4a9)
-[![Documentation](https://img.shields.io/badge/Docs-droposs.org-blue)](https://docs.droposs.org/)
-[![Open Collective](https://img.shields.io/opencollective/all/drop-oss?label=Support%20Us&color=blue)](https://opencollective.com/drop-oss)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://droposs.org)
+[![Static Badge](https://img.shields.io/badge/FORUM-blue?style=for-the-badge)](https://forum.droposs.org)
+[![GitHub License](https://img.shields.io/badge/AGPL--3.0-red?style=for-the-badge)](LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ACq4qZp4a9)
+[![Open Collective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/drop-oss)
 
 Drop is an open-source game distribution platform, designed to provide a Steam-like experience for DRM-free games. It's built with flexibility, security, and user-friendliness in mind.
 
-## 🌟 Features
+## Getting Started
 
-### 🔐 Authentication
-Drop supports:
-- Simple login (username/password)
-- Invitation-based registration
-- SSO (various providers, or generic)
-- Multi-provider sign in (can use multiple different methods)
+To get started, check out our [Getting Started Guide](https://docs.droposs.org/docs/guides/quickstart/). 
 
-### 🎮 Games
-Drop supports any format of game and handles multiple platforms:
-- Native games for Windows & Linux
-- First-class support for Wine/Proton in Linux
-- Custom-install scripts/dependency installation & checking
+If you're looking for client downloads, check out [our website](https://droposs.org/download)
 
-### ✨ Current Features
-- Multi library sources
-- Screenshots syncing
-- P2P with TailScale integration
-- Update notifications
-- Game versioning
-- Collections support
-- Docker deployment
-- ARM support
-- Cross-platform (Windows, macOS, Linux)
-
-### 🚀 Coming Soon
-- Cloud saves
-- Archived game support
-- Big Picture mode
-- Multi-server support
-- Steamworks library replacement
-- Remote LAN/automatic networking
-- Enhanced P2P downloads
-
-## 📦 Repositories
+## Repositories
 
 | Repository | Description |
 |------------|-------------|
 | [drop](https://github.com/Drop-OSS/drop) | Main Drop server repository |
 | [drop-app](https://github.com/Drop-OSS/drop-app) | Drop desktop application |
 | [droplet](https://github.com/Drop-OSS/droplet) | Utility package for Drop |
-| [libtailscale](https://github.com/Drop-OSS/libtailscale) | TailScale integration library |
-| [drop-base](https://github.com/Drop-OSS/drop-base) | Base components and shared code |
+| [headscalez](https://github.com/Drop-OSS/headscalez) | Embedded Headscale library |
 
-## 📚 Resources
-
-- 📖 [Documentation](https://docs.droposs.org/) - Official Drop documentation
-- 💬 [Forum](https://forum.droposs.org/) - Community discussions and support
-- 🎮 [Discord](https://discord.gg/ACq4qZp4a9) - Join our community on Discord
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](https://github.com/Drop-OSS/drop/blob/develop/CONTRIBUTING.md) for details on how to get started.
-
-## 📄 License
+## License
 
 Drop is licensed under AGPL-3.0. See the [LICENSE](https://github.com/Drop-OSS/drop/blob/develop/LICENSE) file for details.
 
